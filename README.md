@@ -1,4 +1,5 @@
 # FishyHu
 
-- 🔭 I’m a student
-- 🌱 I’m currently learning HTML, CSS, and Flask
+- I'm FishyHu
+- I’m a student
+- I’m currently learning HTML, CSS, and Flask
