@@ -1,2 +1,2 @@
-# ikan-asin
-https://ikan-asin.github.io/
+# Hi !
+I'm a random guy who enjoy programming
